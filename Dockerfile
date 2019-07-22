@@ -1,4 +1,4 @@
-# Build JPetStore war
+# Build DWP war
 FROM openjdk:8 as builder
 COPY . /src
 WORKDIR /src
